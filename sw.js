@@ -1,4 +1,4 @@
-const cacheName = 'nathalie-cuba-v1';
+const cacheName = 'nathalie-cuba-v2';
 const assets = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', event => {
